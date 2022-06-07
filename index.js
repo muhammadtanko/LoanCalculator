@@ -1,1 +1,1 @@
-module.exports.LoanCalc = require("./loan-calc");
+ module.exports.LoanCalc = require("./loan-calc");
