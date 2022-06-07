@@ -1,7 +1,7 @@
 {
-  "name": "project",
+  "name": "loancalculator",
   "version": "1.0.0",
-  "description": "A  simple loan calculator",
+  "description": "A simple loan calculator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +11,11 @@
     "url": "git+https://github.com/muhammad-Tanko/LoanCalculator.git"
   },
   "keywords": [
-    "Loan",
-    "Calculator"
+    "calculator",
+    "loancalculator",
+    "functions"
   ],
-  "author": "Muhammad-Tanko",
+  "author": "muhammad tanko",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/muhammad-Tanko/LoanCalculator/issues"
