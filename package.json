@@ -1,6 +1,6 @@
 {
   "name": "@muhammad-tanko/loancalculator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple loan calculator",
   "main": "index.js",
   "scripts": {
